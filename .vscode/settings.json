@@ -1,0 +1,8 @@
+{
+    "git.autofetch": true,
+    "jshint.lintHTML": true,
+    "jshint.options": {
+        "esversion": 6
+    },
+    "jshint.excludePath": ""
+}
